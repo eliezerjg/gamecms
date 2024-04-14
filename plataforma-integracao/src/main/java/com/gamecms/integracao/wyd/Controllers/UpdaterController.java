@@ -57,8 +57,6 @@ public class UpdaterController {
 
     @GetMapping(value = "/getfile/{pathNameEncoded}")
     public ResponseEntity<byte[]> getFile(@PathVariable String pathNameEncoded){
-
-        // passar isso aqui pro servidor do cliente e trazer via GET
         String pathName = new String(Base64.getDecoder().decode(pathNameEncoded));
 
 
