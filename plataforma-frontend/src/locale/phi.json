@@ -1,0 +1,495 @@
+{
+  "site": {
+    "components": {
+      "BrandingLine": {
+        "content": "GameCMS - Content Management Systems At Monetization."
+      },
+      "BreadCrumbs": "",
+      "Card": {
+        "authoredBy": "Inilathala ni ",
+        "at": "sa",
+        "readMore": "Magbasa pa"
+      },
+      "CartTable": {
+        "image": "Larawan",
+        "item": "Item",
+        "value": "Halaga",
+        "quantity": "Damihan",
+        "emptybacktoshop": "Im Empty =( Back To Shop."
+      },
+      "DownloadContent": {
+        "title": "Pamagat: ",
+        "description": "",
+        "authoredBy": "Inilathala Ni",
+        "at": "sa",
+        "noDownloadsAvailable": " Walang Mga Pag-download Na Magagamit. ",
+        "fetchDownload": {
+          "error": {
+            "title": "pamagat",
+            "text": "teksto"
+          }
+        }
+      },
+      "Footer": {
+        "content": "Karapatang-Ari Lahat ng Karapatan Ay Nakalaan"
+      },
+      "HomeDownload": "",
+      "Loading": {
+        "content": "Loading..."
+      },
+      "ErrorLoading": {
+        "content": "=( It was not possible retrieve any data timeout..."
+      },
+      "Main": "",
+      "MenuNavbar": {
+        "items": {
+          "Home": "Bahay",
+          "News": "Balita / mga Kaganapan ",
+          "Register": "Magparehistro",
+          "Download": "I-download",
+          "Ranking": "Paglalarawan",
+          "Shop": "Tindahan"
+        },
+        "login": {
+          "content": "Mag-login"
+        },
+        "cart": {
+          "empty": "Ako'y walang laman =(",
+          "toCart": "Karo."
+        },
+        "panel": {
+          "content": "Panel",
+          "logout": "Mag-logout",
+          "login": "Mag-login"
+        }
+      },
+      "MiniRankingList": {
+        "head": {
+          "position": "Posisyon",
+          "class": "Uri",
+          "name": "Pangalan",
+          "guildflag": "Watawat ng Guild",
+          "pkpoints": "Mga Pk Points",
+          "status": "Katayuan"
+        },
+        "content": "Ranking TOP 5 - Pumatay",
+        "readAll": "Magbasa pa"
+      },
+      "ModalLogin": {
+        "login": "Mag-login",
+        "username": "Pangalan ng Tagagamit",
+        "password": "Password"
+      },
+      "NewsCards": {
+        "fetchNews": {
+          "error": {
+            "title": "Kamalian",
+            "text": "Walang Balita na Magagamit, sa uri: "
+          }
+        },
+        "types": {
+          "news": "Balita",
+          "event": "Kaganapan",
+          "maintenance": "Pananatili"
+        },
+        "choose": "Pumili ng Kategorya:"
+      },
+      "Pagination": {
+        "next": "susunod",
+        "previous": "nakaraan"
+      },
+      "PanelContent": {
+        "content": "Panel",
+        "itemsMenu": {
+          "password": "Baguhin ang Password",
+          "guildmark": "Mag-upload ng Guildmark",
+          "purchases": "Kasaysayan ng mga Bilihin"
+        },
+        "tabs": {
+          "purchases": {
+            "content": "Mga Bilihin",
+            "head": {
+              "line": "Linya",
+              "reference": "Reference",
+              "value": "Halaga",
+              "recepted": "Natanggap"
+            },
+            "words": {
+              "yes": "oo",
+              "no": "hindi"
+            }
+          },
+          "guildmark": {
+            "content": "Watawat ng Guild",
+            "guildId": "Guild ID:",
+            "guildIdPlaceHolder": "Guild Id",
+            "guildMasterPassword": "Guild Master Password:",
+            "guildMasterPasswordPlaceHolder": "Guild Master Password",
+            "send": "I-upload !",
+            "handleUpload": {
+              "error": "kamalian",
+              "success": "Tagumpay",
+              "successText": "Na-upload nang matagumpay!",
+              "selectCaptcha": "Mangyaring punan ang Captcha",
+              "selectImage": "Mangyaring Pumili ng wastong Larawan",
+              "shouldBeBmp": "Ang Larawan ay dapat nasa .bmp format",
+              "shouldBe16x12": "Ang Larawan ay dapat nasa sukat na 16x12"
+            }
+          },
+          "security": {
+            "content": "Seguridad",
+            "actualPassword": "Kasalukuyang Password:",
+            "actualPasswordPlaceHolder": "Kasalukuyang Password",
+            "newPassword": "Bagong Password:",
+            "newPasswordPlaceHolder": "Bagong Password",
+            "changePassword": "Baguhin ang Password",
+            "handleSubmit": {
+              "error": "Kamalian",
+              "success": "Tagumpay",
+              "successText": "Ang Iyong Password Ay Matagumpay na Na-update.",
+              "shouldHaveOnlyLettersAndNumbers": "Ang Iyong Password Dapat Mayroon Lamang mga Titik At Bilang."
+            }
+          }
+        }
+      },
+      "PostContent": {
+        "authoredBy": "Inilathala ni ",
+        "at": "sa",
+        "title": "Pamagat:",
+        "fetchPostData": {
+          "error": "kamalian",
+          "errorText": "Ooops may nangyaring mali."
+        }
+      },
+      "RankingList": {
+        "head": {
+          "position": "Posisyon",
+          "class": "Uri",
+          "name": "Pangalan",
+          "guildflag": "Watawat ng Guild",
+          "pkpoints": "Mga Pk Points",
+          "arenakills": "Arena Kills",
+          "arenawins": "Arena Panalo",
+          "arena": "Arena",
+          "level": "Antas",
+          "evolution": "Evolution",
+          "kingdom": "Kaharian",
+          "status": "Katayuan"
+        },
+        "content": "Ranking TOP 100 - Pumatay"
+      },
+      "ShopCard": {
+        "moreInfo": {
+          "item": "Item: ",
+          "description": "Paglalarawan: ",
+          "details": "Detalye"
+        },
+        "value": "Halaga:",
+        "buy": "Bumili"
+      },
+      "ShopCards": {
+        "content": "Tindahan",
+        "searchPlaceHolder": "Maghanap ng Mga Item",
+        "fetchShopCards": {
+          "error": "Kamalian",
+          "errorText": "Walang mga item na maitala."
+        }
+      },
+      "LanguageSwitcher": {
+        "content": "Wika"
+      }
+    },
+    "routes": {
+      "Register": {
+        "content": "Magparehistro",
+        "handleSubmit": {
+          "error": "Kamalian",
+          "errorRegisterTimeoutText": "Ang Iyong Password Dapat Mayroon Lamang mga Titik At Bilang.",
+          "errorIsNotPossibleCreateThisAccount": "Di-maaaring lumikha ng iyong account.",
+          "success": "Tagumpay",
+          "successText": "Tagumpay na Nilikha ang Account.",
+          "shouldHaveOnlyLettersAndNumbers": "Ang Iyong Password Dapat Mayroon Lamang mga Titik At Bilang."
+        },
+        "usernamePlaceHolder": "Pangalan ng Tagagamit",
+        "passwordPlaceHolder": "Password",
+        "confirmPasswordPlaceHolder": "Password",
+        "createAccount": "Lumikha ng Account",
+        "ifIsRegisteredDownloadNow": "Naka-rehistro na? I-download ngayon"
+      },
+      "Checkout": {
+        "content": "Tseke - Karo",
+        "total": "Kabuuang",
+        "completeThePayment": "Kumpletuhin ang Pagbabayad",
+        "createPreferenceAndRedirect": {
+          "error": "Kamalian",
+          "shouldBeLoggedToProceedWithPurchase": "Kailangan mong mag-login upang magpatuloy sa Pagbili.",
+          "yourCartCantBeEmpty": "Ang Iyong Karo Ay Hindi Maaaring Walang Laman.",
+          "warning": "Babala",
+          "redirectWarningText": "Huwag mag-alala ikaw ay inirerehistro upang kumpletuhin ang pagbabayad."
+        }
+      }
+    }
+  },
+  "admin": {
+    "components": {
+      "AccountSettingsManagementContent": {
+        "content": "Aking Account",
+        "warningFieldsMarkedWithRed": "Babala - Atensyon sa mga patlang na may tanda ng * at pula",
+        "enablePreLaunchMode": "Paganahin ang Pre Launch Mode (PAGPAG-IBIG COUNTDOWN MODAL):",
+        "releaseDate": "Petsa ng Paglabas (PARA SA COUNTDOWN MODAL):",
+        "releaseBanner": "Release Banner (PARA SA COUNTDOWN MODAL):",
+        "preLaunchMessage": "Pre Launcher Mensahe (PARA SA COUNTDOWN MODAL):",
+        "homePageTitle": "Maligayang Pagdating Homepage Pamagat:",
+        "homePageText": "Maligayang Pagdating Homepage Teksto:",
+        "email": "Username e-mail:",
+        "databaseName": "Pangalan ng Database:",
+        "serverIpv4Address": "IPv4 Address ng Server:",
+        "serverIpv6Address": "IPv6 Address ng Server:",
+        "sshKey": "SSH KEY (PARA SA UPDATES):",
+        "domainFrontEnd": "Domain Frontend (CF-SSL):",
+        "domainIntegration": "Domain Integration (CF-SSL):",
+        "mercadoPagoAccessToken": "METODONG PAGBABAYAD (BR) Access Token ng Mercado Pago:",
+        "serverFantasyName": "Fantasy Name ng Server:",
+        "launcherImage": "Larawan ng Launcher:",
+        "favIcon": "FavIcon ng Website:",
+        "logoImage": "Larawan ng Logo ng Website:",
+        "backgroundImage": "Larawan ng Background:",
+        "footerText": "Teksto ng Footer Para sa Karapatang-Ari (saradong source code):",
+        "discordUrl": "Discord URL:",
+        "facebookUrl": "Facebook URL:",
+        "youtubeUrl": "YouTube URL:",
+        "whatsappUrl": "Whats App URL:",
+        "update": "I-update !",
+        "launchConfigs": "Mga Konfigurasyon ng Pre Lanch Mode:",
+        "homepageConfigs": "Mga Konfigurasyon ng Homepage Maligayang Pagdating:",
+        "customerConfigs": "Mga Konfigurasyon ng Customer:",
+        "webSiteConfigs": "Mga Konfigurasyon ng Website:",
+        "updateCustomerInfos": {
+          "success": "Tagumpay !",
+          "successText": "Matagumpay na Na-update.",
+          "error": "Kamalian",
+          "errorText": "Mayroong hindi tama: "
+        },
+        "GET_NOT_FOUND_TITLE" : {
+          "content" : "Kamalian."
+        },
+        "GET_NOT_FOUND_MESSAGE" : {
+          "content" : "Walang mga nahanap na setting."
+        }
+      },
+      "AsideMenu": {
+        "content": "Sistema",
+        "items": {
+          "overview": "Pangkalahatan",
+          "news": "Balita",
+          "guildmarks": "Mga Tatak ng Guild",
+          "purchases": "Mga Bilihin",
+          "shop": "Mga Item sa Tindahan",
+          "configurations": "Konfigurasyon",
+          "perspective": "Pumunta sa Pananaw ng User"
+        }
+      },
+      "DynamicFormModal": {
+        "guildId" : "Guild Id",
+        "author" : "May-akda",
+        "image" : "Larawan",
+        "password" : "Password",
+        "data" : "Petsa",
+        "title" : "Pamagat",
+        "description" : "Paglalarawan",
+        "unformatedHtmlDescription" : "Html (PINAPAYAGAN) Paglalarawan",
+        "tipo" : "Uri",
+        "id" :  "ID",
+        "mercadopagoPreferenceId" :  "Mercado Pago Preference Id",
+        "mercadopagoPreferenceCart" :  "Mercado Pago Preference Cart",
+        "webShopReferenceCart" :  "Web Shop Reference Cart",
+        "value" :  "Halaga",
+        "paid" : "Bayad Na",
+        "importedByCustomer" : "Importado Ng Customer",
+        "statusDetail" : "Detalye ng Katayuan"
+      },
+      "GuildmarksManagementContent": {
+        "content": "Mga Tatak ng Guild",
+        "new": "Bago",
+        "actions": {
+          "content" : "Mga Aksyon",
+          "items" : {
+            "change" : "baguhin",
+            "delete" : "tanggalin"
+          }
+        },
+        "columns": {
+          "Id" : "ID",
+          "Guild Id" : "Guild ID",
+          "Author" : "May-akda",
+          "Image" : "Larawan"
+        },
+        "changeRow": {
+          "success": "Tagumpay",
+          "successText": "texto ng tagumpay",
+          "error": "Kamalian",
+          "errorText": "texto ng kamalian"
+        },
+        "includeRow": {
+          "success": "Tagumpay",
+          "successText": "texto ng tagumpay",
+          "error": "Kamalian",
+          "errorText": "texto ng kamalian"
+        },
+        "deleteRow": {
+          "error" : "Kamalian",
+          "confirm" : "Sigurado ka ba ?",
+          "confirmButtonText" : "Tanggalin",
+          "cancelButtonText" : "Kanselahin"
+        },
+        "GET_NOT_FOUND_MESSAGE" : {
+          "content" : "Walang mga resulta "
+        },
+        "GET_NOT_FOUND_TITLE" : {
+          "content" : "Kamalian"
+        }
+      },
+      "MenuNavbar": {
+        "login" : "Mag-login"
+      },
+      "ModalLogin": {
+        "handleLogin" : {
+          "error" : "Kamalian",
+          "errorText" : ""
+        },
+        "usernamePlaceHolder" : "username",
+        "passwordPlaceHolder" : "password",
+        "login" : "Mag-login"
+      },
+      "NewsManagementContent": {
+        "content": "Balita",
+        "new": "Bago",
+        "actions": {
+          "content" : "Mga Aksyon",
+          "items" : {
+            "change" : "baguhin",
+            "delete" : "tanggalin",
+            "preview" : "preview"
+          }
+        },
+        "columns": {
+          "Id" : "ID",
+          "Data" : "Petsa",
+          "Title" : "Pamagat",
+          "Author" : "May-akda",
+          "Description" : "Paglalarawan",
+          "Tipo" : "Uri"
+        },
+        "changeRow": {
+          "success": "Tagumpay",
+          "successText": "texto ng tagumpay",
+          "error": "Kamalian",
+          "errorText": "texto ng kamalian"
+        },
+        "includeRow": {
+          "success": "Tagumpay",
+          "successText": "texto ng tagumpay",
+          "error": "Kamalian",
+          "errorText": "texto ng kamalian"
+        },
+        "deleteRow": {
+          "error" : "Kamalian",
+          "confirm" : "Sigurado ka ba ?",
+          "confirmButtonText" : "Tanggalin",
+          "cancelButtonText" : "Kanselahin"
+        }
+      },
+      "PurchasesManagementContent": {
+        "content": "Mga Bilihin",
+        "new": "Bago",
+        "actions": {
+          "content" : "Mga Aksyon",
+          "items" : {
+            "change" : "baguhin",
+            "delete" : "tanggalin"
+          }
+        },
+        "columns": {
+          "id" : "ID",
+          "referenceinpaymentmethod" : "Panlabas na Sanggunian",
+          "dateinc" : "Petsa Inc",
+          "username" : "Pangalan ng Tagagamit",
+          "value" : "Halaga",
+          "paid" : "Bayad",
+          "importedbyservercustomer" : "Importado"
+        },
+        "changeRow": {
+          "success": "Tagumpay",
+          "successText": "texto ng tagumpay",
+          "error": "Kamalian",
+          "errorText": "texto ng kamalian"
+        },
+        "includeRow": {
+          "success": "Tagumpay",
+          "successText": "texto ng tagumpay",
+          "error": "Kamalian",
+          "errorText": "texto ng kamalian"
+        },
+        "deleteRow": {
+          "error" : "Kamalian",
+          "confirm" : "Sigurado ka ba ?",
+          "confirmButtonText" : "Tanggalin",
+          "cancelButtonText" : "Kanselahin"
+        }
+      },
+      "ShopManagementContent": {
+        "content": "Tindahan",
+        "new": "Bago",
+        "actions": {
+          "content" : "Mga Aksyon",
+          "items" : {
+            "change" : "baguhin",
+            "delete" : "tanggalin"
+          }
+        },
+        "columns": {
+          "id" : "ID",
+          "image" : "Larawan",
+          "title" : "Pamagat",
+          "description" : "Paglalarawan",
+          "value" : "Halaga"
+        },
+        "changeRow": {
+          "success": "Tagumpay",
+          "successText": "texto ng tagumpay",
+          "error": "Kamalian",
+          "errorText": "texto ng kamalian"
+        },
+        "includeRow": {
+          "success": "Tagumpay",
+          "successText": "texto ng tagumpay",
+          "error": "Kamalian",
+          "errorText": "texto ng kamalian"
+        },
+        "deleteRow": {
+          "error" : "Kamalian",
+          "confirm" : "Sigurado ka ba ?",
+          "confirmButtonText" : "Tanggalin",
+          "cancelButtonText" : "Kanselahin"
+        }
+      }
+    },
+    "routes": {
+      "Home": {
+        "content": "Babala !",
+        "text": "Ito ay isang lugar ng admin."
+      },
+      "Tabs": {
+        "AccountSettingsManagement": "",
+        "GuildmarksManagement": "",
+        "NewsManagement": "",
+        "Overview": {
+          "content": "Pangkalahatan",
+          "text": "Maligayang Pagdating !"
+        },
+        "PurchasesHistoryManagement": "",
+        "ShopManagement": ""
+      }
+    }
+  }
+}

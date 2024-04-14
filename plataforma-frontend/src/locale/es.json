@@ -1,0 +1,495 @@
+{
+  "site": {
+    "components": {
+      "BrandingLine": {
+        "content": "GameCMS - Sistemas de Gestión de Contenidos y Monetización."
+      },
+      "BreadCrumbs": "",
+      "Card": {
+        "authoredBy": "Escrito por ",
+        "at": "en",
+        "readMore": "Leer Más"
+      },
+      "CartTable": {
+        "image": "Imagen",
+        "item": "Artículo",
+        "value": "Valor",
+        "quantity": "Cantidad",
+        "emptybacktoshop": "Im Empty =( Back To Shop."
+      },
+      "DownloadContent": {
+        "title": "Título: ",
+        "description": "",
+        "authoredBy": "Escrito por",
+        "at": "en",
+        "noDownloadsAvailable": " No hay Descargas Disponibles. ",
+        "fetchDownload": {
+          "error": {
+            "title": "título",
+            "text": "texto"
+          }
+        }
+      },
+      "Footer": {
+        "content": "Copyright Todos los Derechos Reservados"
+      },
+      "HomeDownload": "",
+      "Loading": {
+        "content": "Cargando..."
+      },
+      "ErrorLoading": {
+        "content": "=( It was not possible retrieve any data timeout..."
+      },
+      "Main": "",
+      "MenuNavbar": {
+        "items": {
+          "Home": "Inicio",
+          "News": "Noticias / Eventos",
+          "Register": "Registrar",
+          "Download": "Descargar",
+          "Ranking": "Clasificación",
+          "Shop": "Tienda"
+        },
+        "login": {
+          "content": "Iniciar sesión"
+        },
+        "cart": {
+          "empty": "Estoy vacío =(",
+          "toCart": "Carrito."
+        },
+        "panel": {
+          "content": "Panel",
+          "logout": "Cerrar sesión",
+          "login": "Iniciar sesión"
+        }
+      },
+      "MiniRankingList": {
+        "head": {
+          "position": "Posición",
+          "class": "Clase",
+          "name": "Nombre",
+          "guildflag": "Bandera de la Guild",
+          "pkpoints": "Puntos PK",
+          "status": "Estado"
+        },
+        "content": "Clasificación TOP 5 - Asesinatos",
+        "readAll": "Leer Más"
+      },
+      "ModalLogin": {
+        "login": "Iniciar sesión",
+        "username": "Nombre de usuario",
+        "password": "Contraseña"
+      },
+      "NewsCards": {
+        "fetchNews": {
+          "error": {
+            "title": "Error",
+            "text": "No hay Noticias para listar, en tipo: "
+          }
+        },
+        "types": {
+          "news": "Noticias",
+          "event": "Eventos",
+          "maintenance": "Mantenimiento"
+        },
+        "choose": "Filtrar por Categoría:"
+      },
+      "Pagination": {
+        "next": "siguiente",
+        "previous": "anterior"
+      },
+      "PanelContent": {
+        "content": "Panel",
+        "itemsMenu": {
+          "password": "Cambiar Contraseña",
+          "guildmark": "Subir Insignia de Guild",
+          "purchases": "Historial de Compras"
+        },
+        "tabs": {
+          "purchases": {
+            "content": "Compras",
+            "head": {
+              "line": "Línea",
+              "reference": "Referencia",
+              "value": "Valor",
+              "recepted": "Recibido"
+            },
+            "words": {
+              "yes": "sí",
+              "no": "no"
+            }
+          },
+          "guildmark": {
+            "content": "Bandera de la Guild",
+            "guildId": "ID de Guild:",
+            "guildIdPlaceHolder": "ID de Guild",
+            "guildMasterPassword": "Contraseña del Maestro de la Guild:",
+            "guildMasterPasswordPlaceHolder": "Contraseña del Maestro de la Guild",
+            "send": "¡Subir!",
+            "handleUpload": {
+              "error": "error",
+              "success": "Éxito",
+              "successText": "¡Subido con éxito!",
+              "selectCaptcha": "Por favor completa el Captcha",
+              "selectImage": "Por favor selecciona una imagen válida",
+              "shouldBeBmp": "La imagen debe estar en formato .bmp",
+              "shouldBe16x12": "La imagen debe ser de tamaño 16x12"
+            }
+          },
+          "security": {
+            "content": "Seguridad",
+            "actualPassword": "Contraseña Actual:",
+            "actualPasswordPlaceHolder": "Contraseña Actual",
+            "newPassword": "Nueva Contraseña:",
+            "newPasswordPlaceHolder": "Nueva Contraseña",
+            "changePassword": "Cambiar Contraseña",
+            "handleSubmit": {
+              "error": "Error",
+              "success": "Éxito",
+              "successText": "Tu Contraseña Fue Actualizada Exitosamente.",
+              "shouldHaveOnlyLettersAndNumbers": "Tu Contraseña Debe Tener Solo Letras y Números."
+            }
+          }
+        }
+      },
+      "PostContent": {
+        "authoredBy": "Escrito por ",
+        "at": "en",
+        "title": "Título:",
+        "fetchPostData": {
+          "error": "error",
+          "errorText": "Oops, algo salió mal."
+        }
+      },
+      "RankingList": {
+        "head": {
+          "position": "Posición",
+          "class": "Clase",
+          "name": "Nombre",
+          "guildflag": "Bandera de la Guild",
+          "pkpoints": "Puntos PK",
+          "arenakills": "Asesinatos en la Arena",
+          "arenawins": "Victorias en la Arena",
+          "arena": "Arena",
+          "level": "Nivel",
+          "evolution": "Evolución",
+          "kingdom": "Reino",
+          "status": "Estado"
+        },
+        "content": "Clasificación TOP 100 - Asesinatos"
+      },
+      "ShopCard": {
+        "moreInfo": {
+          "item": "Artículo: ",
+          "description": "Descripción: ",
+          "details": "Detalles"
+        },
+        "value": "Valor:",
+        "buy": "Comprar"
+      },
+      "ShopCards": {
+        "content": "Tienda",
+        "searchPlaceHolder": "Buscar Artículos",
+        "fetchShopCards": {
+          "error": "Error",
+          "errorText": "No hay artículos para listar."
+        }
+      },
+      "LanguageSwitcher": {
+        "content": "Idioma"
+      }
+    },
+    "routes": {
+      "Register": {
+        "content": "Registro",
+        "handleSubmit": {
+          "error": "Error",
+          "errorRegisterTimeoutText": "Tu Contraseña Debe Tener Solo Letras y Números.",
+          "errorIsNotPossibleCreateThisAccount": "Desafortunadamente no fue posible crear tu cuenta.",
+          "success": "Éxito",
+          "successText": "Cuenta creada exitosamente.",
+          "shouldHaveOnlyLettersAndNumbers": "Tu Contraseña Debe Tener Solo Letras y Números."
+        },
+        "usernamePlaceHolder": "Nombre de Usuario",
+        "passwordPlaceHolder": "Contraseña",
+        "confirmPasswordPlaceHolder": "Contraseña",
+        "createAccount": "Crear Cuenta",
+        "ifIsRegisteredDownloadNow": "¿Ya Registrado? Descarga ahora"
+      },
+      "Checkout": {
+        "content": "Pagar - Carrito",
+        "total": "Total",
+        "completeThePayment": "Completar Pago",
+        "createPreferenceAndRedirect": {
+          "error": "Error",
+          "shouldBeLoggedToProceedWithPurchase": "Debes iniciar sesión para continuar con la compra.",
+          "yourCartCantBeEmpty": "Tu carrito no puede estar vacío.",
+          "warning": "Advertencia",
+          "redirectWarningText": "No te preocupes, estás siendo redirigido para completar el pago."
+        }
+      }
+    }
+  },
+  "admin": {
+    "components": {
+      "AccountSettingsManagementContent": {
+        "content": "Mi Cuenta",
+        "warningFieldsMarkedWithRed": "Advertencia - Atención en campos marcados con * y en rojo",
+        "enablePreLaunchMode": "Habilitar Modo Pre Lanzamiento (HABILITAR MODAL DE CUENTA REGRESIVA):",
+        "releaseDate": "Fecha de Lanzamiento (PARA MODAL DE CUENTA REGRESIVA):",
+        "releaseBanner": "Banner de Lanzamiento (PARA MODAL DE CUENTA REGRESIVA):",
+        "preLaunchMessage": "Mensaje de Pre Lanzamiento (PARA MODAL DE CUENTA REGRESIVA):",
+        "homePageTitle": "Título de la Página de Inicio:",
+        "homePageText": "Texto de Bienvenida de la Página de Inicio:",
+        "email": "Correo Electrónico de Usuario:",
+        "databaseName": "Nombre de la Base de Datos:",
+        "serverIpv4Address": "Dirección IPv4 del Servidor:",
+        "serverIpv6Address": "Dirección IPv6 del Servidor:",
+        "sshKey": "LLAVE SSH (PARA ACTUALIZACIONES):",
+        "domainFrontEnd": "Dominio Frontend (CF-SSL):",
+        "domainIntegration": "Integración de Dominio (CF-SSL):",
+        "mercadoPagoAccessToken": "MÉTODO DE PAGO (BR) Token de Acceso a Mercado Pago:",
+        "serverFantasyName": "Nombre Fantasía del Servidor:",
+        "launcherImage": "Imagen del Lanzador:",
+        "favIcon": "FavIcon del Sitio Web:",
+        "logoImage": "Imagen de Logo del Sitio Web:",
+        "backgroundImage": "Imagen de Fondo:",
+        "footerText": "Texto del Pie de Página Para Derechos de Autor (código fuente cerrado):",
+        "discordUrl": "URL de Discord:",
+        "facebookUrl": "URL de Facebook:",
+        "youtubeUrl": "URL de YouTube:",
+        "whatsappUrl": "URL de WhatsApp:",
+        "update": "¡Actualizar!",
+        "launchConfigs": "Configuraciones del Modo Pre Lanzamiento:",
+        "homepageConfigs": "Configuraciones de Bienvenida de la Página de Inicio:",
+        "customerConfigs": "Configuraciones del Cliente:",
+        "webSiteConfigs": "Configuraciones del Sitio Web:",
+        "updateCustomerInfos": {
+          "success": "¡Éxito!",
+          "successText": "Actualizado Exitosamente.",
+          "error": "Error",
+          "errorText": "Algo no está bien: "
+        },
+        "GET_NOT_FOUND_TITLE": {
+          "content": "Error."
+        },
+        "GET_NOT_FOUND_MESSAGE": {
+          "content": "No se encontraron configuraciones."
+        }
+      },
+      "AsideMenu": {
+        "content": "Sistema",
+        "items": {
+          "overview": "Visión General",
+          "news": "Noticias",
+          "guildmarks": "Insignias de Guild",
+          "purchases": "Compras",
+          "shop": "Artículos de Tienda",
+          "configurations": "Configuraciones",
+          "perspective": "Ir a Perspectiva de Usuario"
+        }
+      },
+      "DynamicFormModal": {
+        "guildId": "ID de Guild",
+        "author": "Autor",
+        "image": "Imagen",
+        "password": "Contraseña",
+        "data": "Fecha",
+        "title": "Título",
+        "description": "Descripción",
+        "unformatedHtmlDescription": "Descripción en HTML (HABILITADA)",
+        "tipo": "Tipo",
+        "id": "ID",
+        "mercadopagoPreferenceId": "ID de Preferencia de Mercado Pago",
+        "mercadopagoPreferenceCart": "Carrito de Preferencia de Mercado Pago",
+        "webShopReferenceCart": "Carrito de Referencia de la Tienda Web",
+        "value": "Valor",
+        "paid": "Está Pagado",
+        "importedByCustomer": "Importado por el Cliente",
+        "statusDetail": "Detalle del Estado"
+      },
+      "GuildmarksManagementContent": {
+        "content": "Insignias de Guild",
+        "new": "Nuevo",
+        "actions": {
+          "content": "Acciones",
+          "items": {
+            "change": "cambiar",
+            "delete": "eliminar"
+          }
+        },
+        "columns": {
+          "Id": "ID",
+          "Guild Id": "ID de Guild",
+          "Author": "Autor",
+          "Image": "Imagen"
+        },
+        "changeRow": {
+          "success": "Éxito",
+          "successText": "texto de éxito",
+          "error": "Error",
+          "errorText": "texto de error"
+        },
+        "includeRow": {
+          "success": "Éxito",
+          "successText": "texto de éxito",
+          "error": "Error",
+          "errorText": "texto de error"
+        },
+        "deleteRow": {
+          "error": "Error",
+          "confirm": "¿Estás seguro?",
+          "confirmButtonText": "Eliminar",
+          "cancelButtonText": "Cancelar"
+        },
+        "GET_NOT_FOUND_MESSAGE": {
+          "content": "No hay resultados "
+        },
+        "GET_NOT_FOUND_TITLE": {
+          "content": "Error"
+        }
+      },
+      "MenuNavbar": {
+        "login": "Iniciar sesión"
+      },
+      "ModalLogin": {
+        "handleLogin": {
+          "error": "Error",
+          "errorText": ""
+        },
+        "usernamePlaceHolder": "nombre de usuario",
+        "passwordPlaceHolder": "contraseña",
+        "login": "Iniciar sesión"
+      },
+      "NewsManagementContent": {
+        "content": "Noticias",
+        "new": "Nuevo",
+        "actions": {
+          "content": "Acciones",
+          "items": {
+            "change": "cambiar",
+            "delete": "eliminar",
+            "preview": "previsualización"
+          }
+        },
+        "columns": {
+          "Id": "ID",
+          "Data": "Fecha",
+          "Title": "Título",
+          "Author": "Autor",
+          "Description": "Descripción",
+          "Tipo": "Tipo"
+        },
+        "changeRow": {
+          "success": "Éxito",
+          "successText": "texto de éxito",
+          "error": "Error",
+          "errorText": "texto de error"
+        },
+        "includeRow": {
+          "success": "Éxito",
+          "successText": "texto de éxito",
+          "error": "Error",
+          "errorText": "texto de error"
+        },
+        "deleteRow": {
+          "error": "Error",
+          "confirm": "¿Estás seguro?",
+          "confirmButtonText": "Eliminar",
+          "cancelButtonText": "Cancelar"
+        }
+      },
+      "PurchasesManagementContent": {
+        "content": "Compras",
+        "new": "Nuevo",
+        "actions": {
+          "content": "Acciones",
+          "items": {
+            "change": "cambiar",
+            "delete": "eliminar"
+          }
+        },
+        "columns": {
+          "id": "ID",
+          "referenceinpaymentmethod": "Referencia Externa",
+          "dateinc": "Fecha de Inclusión",
+          "username": "Nombre de Usuario",
+          "value": "Valor",
+          "paid": "Pagado",
+          "importedbyservercustomer": "Importado"
+        },
+        "changeRow": {
+          "success": "Éxito",
+          "successText": "texto de éxito",
+          "error": "Error",
+          "errorText": "texto de error"
+        },
+        "includeRow": {
+          "success": "Éxito",
+          "successText": "texto de éxito",
+          "error": "Error",
+          "errorText": "texto de error"
+        },
+        "deleteRow": {
+          "error": "Error",
+          "confirm": "¿Estás seguro?",
+          "confirmButtonText": "Eliminar",
+          "cancelButtonText": "Cancelar"
+        }
+      },
+      "ShopManagementContent": {
+        "content": "Tienda",
+        "new": "Nuevo",
+        "actions": {
+          "content": "Acciones",
+          "items": {
+            "change": "cambiar",
+            "delete": "eliminar"
+          }
+        },
+        "columns": {
+          "id": "ID",
+          "image": "Imagen",
+          "title": "Título",
+          "description": "Descripción",
+          "value": "Valor"
+        },
+        "changeRow": {
+          "success": "Éxito",
+          "successText": "texto de éxito",
+          "error": "Error",
+          "errorText": "texto de error"
+        },
+        "includeRow": {
+          "success": "Éxito",
+          "successText": "texto de éxito",
+          "error": "Error",
+          "errorText": "texto de error"
+        },
+        "deleteRow": {
+          "error": "Error",
+          "confirm": "¿Estás seguro?",
+          "confirmButtonText": "Eliminar",
+          "cancelButtonText": "Cancelar"
+        }
+      }
+    },
+    "routes": {
+      "Home": {
+        "content": "¡Advertencia!",
+        "text": "Esta es una zona de administrador."
+      },
+      "Tabs": {
+        "AccountSettingsManagement": "",
+        "GuildmarksManagement": "",
+        "NewsManagement": "",
+        "Overview": {
+          "content": "Visión General",
+          "text": "¡Bienvenido!"
+        },
+        "PurchasesHistoryManagement": "",
+        "ShopManagement": ""
+      }
+    }
+  }
+}

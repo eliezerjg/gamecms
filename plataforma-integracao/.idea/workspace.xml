@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f26af4b-e730-4134-a05d-5755eecb353f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="padrao-mysql" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2XdCqWWjyMHYQqHP9eFnoAYq7GR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;padrao-mysql-kog&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/desenvolvimento/projetos/projeto-global&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e05bf3b6366b75da861070695b512ede&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gamecms.integracao.wyd.Services" />
+      <recent name="com.gamecms.integracao.wyd.Repositories" />
+      <recent name="com.gamecms.integracao.wyd.Models" />
+      <recent name="com.gamecms.integracao.wyd.Controllers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.IntegracaoApplication">
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="IntegracaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="wyd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gamecms.integracao.wyd.IntegracaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f26af4b-e730-4134-a05d-5755eecb353f" name="Changes" comment="" />
+      <created>1698949762292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698949762292</updated>
+      <workItem from="1698949766292" duration="3013000" />
+      <workItem from="1698953904439" duration="203000" />
+      <workItem from="1698957079088" duration="3101000" />
+      <workItem from="1699112000745" duration="1287000" />
+      <workItem from="1700488631125" duration="2222000" />
+      <workItem from="1701039021845" duration="298000" />
+      <workItem from="1701625046389" duration="201000" />
+      <workItem from="1701628183589" duration="296000" />
+      <workItem from="1701628707108" duration="392000" />
+      <workItem from="1701629168238" duration="236000" />
+      <workItem from="1701629479810" duration="128000" />
+      <workItem from="1701629698174" duration="75000" />
+      <workItem from="1701632897998" duration="293000" />
+      <workItem from="1702155353092" duration="1412000" />
+      <workItem from="1702158161561" duration="1414000" />
+      <workItem from="1702161472341" duration="666000" />
+      <workItem from="1704553992846" duration="1087000" />
+      <workItem from="1704676532755" duration="3670000" />
+      <workItem from="1704759194838" duration="1830000" />
+      <workItem from="1704827552568" duration="1481000" />
+      <workItem from="1704832831599" duration="110000" />
+      <workItem from="1704835610469" duration="35000" />
+      <workItem from="1704835842552" duration="85000" />
+      <workItem from="1704838190365" duration="220000" />
+      <workItem from="1704838617808" duration="73000" />
+      <workItem from="1704838767400" duration="131000" />
+      <workItem from="1704839942691" duration="253000" />
+      <workItem from="1704840229410" duration="61000" />
+      <workItem from="1704840438232" duration="884000" />
+      <workItem from="1704841520984" duration="8000" />
+      <workItem from="1704841695995" duration="772000" />
+      <workItem from="1704985662264" duration="3938000" />
+      <workItem from="1705001123287" duration="2378000" />
+      <workItem from="1705007834696" duration="1043000" />
+      <workItem from="1705009017989" duration="12000" />
+      <workItem from="1705009153936" duration="25000" />
+      <workItem from="1712486698515" duration="2511000" />
+      <workItem from="1712513580818" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

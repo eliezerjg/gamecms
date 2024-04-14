@@ -1,0 +1,22 @@
+name: Deploy via FTP
+
+on:
+  push:
+    branches:
+      - production 
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup FTP
+        uses: wckd/minimal-ftp-action@v2.1.0
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+

@@ -1,0 +1,19 @@
+.menu-painel{
+    height: 100vh;
+}
+
+.conteudo-painel{
+    width: 80vw;
+}
+
+.icon {
+    display: inline-block;
+    font-size: 20px; /* Tamanho do ícone */
+    margin-right: 8px; /* Espaço entre o ícone e o texto do botão */
+  }
+  
+
+  .selected {
+    color: red;
+  }
+  

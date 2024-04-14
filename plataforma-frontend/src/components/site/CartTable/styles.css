@@ -1,0 +1,56 @@
+
+/* Tablet e Desktop */
+@media only screen and (min-width: 768px) {
+
+    .img-item{
+        max-height:4vh;
+        max-width:4vw;
+    }
+
+    .img-item,.btn-minus,.btn-sum{
+        width: 35px !important;
+        height: 35px !important;
+        border: 1px solid white;
+        background-color: cadetblue;
+        color: black;
+        font-size: 1.4em;
+    }
+
+    .input-update{
+        width: 100px !important;
+        height: 35px !important;
+        border: 1px solid white;
+        text-align: center !important;
+    }
+}
+
+/* Mobile */
+@media only screen and (max-width: 600px) {
+    .table-carrinho{
+        max-height: 45vh;
+    }
+
+    .table-item{
+        max-height: 5vh;
+    }
+
+    .img-item{
+        max-height:4vh;
+        max-width:4vw;
+    }
+
+    .img-item,.btn-minus,.btn-sum{
+       display: none;
+    }
+
+    .img-item{
+        display: block;
+    }
+
+
+    .input-update{
+        display: none;
+    }
+}
+
+

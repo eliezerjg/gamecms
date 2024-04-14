@@ -1,0 +1,495 @@
+{
+  "site": {
+    "components": {
+      "BrandingLine": {
+        "content": "GameCMS - Content Management Systems And Monetization."
+      },
+      "BreadCrumbs": "",
+      "Card": {
+        "authoredBy": "Authored by ",
+        "at": "at",
+        "readMore": "Read More"
+      },
+      "CartTable": {
+        "image": "Image",
+        "item": "Item",
+        "value": "Value",
+        "quantity": "Quantity",
+        "emptybacktoshop": "Im Empty =( Back To Shop."
+      },
+      "DownloadContent": {
+        "title": "Title: ",
+        "description": "",
+        "authoredBy": "Authored By",
+        "at": "at",
+        "noDownloadsAvailable": " No Downloads Available. ",
+        "fetchDownload": {
+          "error": {
+            "title": "title",
+            "text": "text"
+          }
+        }
+      },
+      "Footer": {
+        "content": "Copyright All Rights Reserved"
+      },
+      "HomeDownload": "",
+      "Loading": {
+        "content": "Loading..."
+      },
+      "ErrorLoading": {
+        "content": "=( It was not possible retrieve any data timeout..."
+      },
+      "Main": "",
+      "MenuNavbar": {
+        "items": {
+          "Home": "Home",
+          "News": "News / Events ",
+          "Register": "Register",
+          "Download": "Download",
+          "Ranking": "Ranking",
+          "Shop": "Shop"
+        },
+        "login": {
+          "content": "Login"
+        },
+        "cart": {
+          "empty": "I'm empty =(",
+          "toCart": "Cart."
+        },
+        "panel": {
+          "content": "Panel",
+          "logout": "Logout",
+          "login": "Login"
+        }
+      },
+      "MiniRankingList": {
+        "head": {
+          "position": "Position",
+          "class": "Class",
+          "name": "Name",
+          "guildflag": "Guild Flag",
+          "pkpoints": "Pk Points",
+          "status": "Status"
+        },
+        "content": "Ranking TOP 5 - Kills",
+        "readAll": "Read More"
+      },
+      "ModalLogin": {
+        "login": "Login",
+        "username": "Username",
+        "password": "Password"
+      },
+      "NewsCards": {
+        "fetchNews": {
+          "error": {
+            "title": "Error",
+            "text": "There is no News to list, in type: "
+          }
+        },
+        "types": {
+          "news": "News",
+          "event": "Events",
+          "maintenance": "Maintenance"
+        },
+        "choose": "Filter by Category:"
+      },
+      "Pagination": {
+        "next": "next",
+        "previous": "previous"
+      },
+      "PanelContent": {
+        "content": "Panel",
+        "itemsMenu": {
+          "password": "Change Password",
+          "guildmark": "Upload Guildmark",
+          "purchases": "Purchases History"
+        },
+        "tabs": {
+          "purchases": {
+            "content": "Purchases",
+            "head": {
+              "line": "Line",
+              "reference": "Reference",
+              "value": "Value",
+              "recepted": "Receveid"
+            },
+            "words": {
+              "yes": "yes",
+              "no": "no"
+            }
+          },
+          "guildmark": {
+            "content": "Guildmark Flag",
+            "guildId": "Guild ID:",
+            "guildIdPlaceHolder": "Guild Id",
+            "guildMasterPassword": "Guild Master Password:",
+            "guildMasterPasswordPlaceHolder": "Guild Master Password",
+            "send": "Upload !",
+            "handleUpload": {
+              "error": "error",
+              "success": "Success",
+              "successText": "Uploaded with success !",
+              "selectCaptcha": "Please complete Captcha",
+              "selectImage": "Please Select a valid Image",
+              "shouldBeBmp": "Image should be in .bmp format",
+              "shouldBe16x12": "Image should be in 16x12 size"
+            }
+          },
+          "security": {
+            "content": "Security",
+            "actualPassword": "Current Password:",
+            "actualPasswordPlaceHolder": "Current Password",
+            "newPassword": "New Password:",
+            "newPasswordPlaceHolder": "New Password",
+            "changePassword": "Change Password",
+            "handleSubmit": {
+              "error": "Error",
+              "success": "Success",
+              "successText": "Your Password Was Updated Successfully.",
+              "shouldHaveOnlyLettersAndNumbers": "Your Password Must Have Only Letters And Numbers."
+            }
+          }
+        }
+      },
+      "PostContent": {
+        "authoredBy": "Authored by ",
+        "at": "at",
+        "title": "Title:",
+        "fetchPostData": {
+          "error": "error",
+          "errorText": "Ooops something went wrong."
+        }
+      },
+      "RankingList": {
+        "head": {
+          "position": "Position",
+          "class": "Class",
+          "name": "Name",
+          "guildflag": "Guild Flag",
+          "pkpoints": "Pk Points",
+          "arenakills": "Arena Kills",
+          "arenawins": "Arena Wins",
+          "arena": "Arena",
+          "level": "Level",
+          "evolution": "Evolution",
+          "kingdom": "Kingdom",
+          "status": "Status"
+        },
+        "content": "Ranking TOP 100 - Kills"
+      },
+      "ShopCard": {
+        "moreInfo": {
+          "item": "Item: ",
+          "description": "Description: ",
+          "details": "Details"
+        },
+        "value": "Value:",
+        "buy": "Buy"
+      },
+      "ShopCards": {
+        "content": "Shop Store",
+        "searchPlaceHolder": "Search Items",
+        "fetchShopCards": {
+          "error": "Error",
+          "errorText": "The is no items to list."
+        }
+      },
+      "LanguageSwitcher": {
+        "content": "Language"
+      }
+    },
+    "routes": {
+      "Register": {
+        "content": "Register",
+        "handleSubmit": {
+          "error": "Error",
+          "errorRegisterTimeoutText": "Your Password Must Have Only Letters And Numbers.",
+          "errorIsNotPossibleCreateThisAccount": "Unfortunelly It was not possible create your account.",
+          "success": "Success",
+          "successText": "Account created Successfully.",
+          "shouldHaveOnlyLettersAndNumbers": "Your Password Must Have Only Letters And Numbers."
+        },
+        "usernamePlaceHolder": "Username",
+        "passwordPlaceHolder": "Password",
+        "confirmPasswordPlaceHolder": "Password",
+        "createAccount": "Create Account",
+        "ifIsRegisteredDownloadNow": "Already Registered ? Download now"
+      },
+      "Checkout": {
+        "content": "Checkout - Cart",
+        "total": "Total",
+        "completeThePayment": "Complete Payment",
+        "createPreferenceAndRedirect": {
+          "error": "Error",
+          "shouldBeLoggedToProceedWithPurchase": "Your need to be logged ToProceed With the Purchase.",
+          "yourCartCantBeEmpty": "Your Cart Cant Be Empty.",
+          "warning": "Warning",
+          "redirectWarningText": "Dont worry you are being redirect to complete the payment."
+        }
+      }
+    }
+  },
+  "admin": {
+    "components": {
+      "AccountSettingsManagementContent": {
+        "content": "My Account",
+        "warningFieldsMarkedWithRed": "Warning - Attention on fields marketing with * and in red",
+        "enablePreLaunchMode": "Enable Pre Launch Mode (ENABLE COUNTDOWN MODAL):",
+        "releaseDate": "Release Date (FOR COUNTDOWN MODAL):",
+        "releaseBanner": "Release Banner (FOR COUNTDOWN MODAL):",
+        "preLaunchMessage": "Pre Launcher Message (FOR COUNTDOWN MODAL):",
+        "homePageTitle": "Welcome Homepage Title:",
+        "homePageText": "Welcome Homepage Text:",
+        "email": "Username e-mail:",
+        "databaseName": "Database Name:",
+        "serverIpv4Address": "Server IPv4 Address:",
+        "serverIpv6Address": "Server IPv6 Address:",
+        "sshKey": "SSH KEY (FOR UPDATES):",
+        "domainFrontEnd": "Domain Frontend (CF-SSL):",
+        "domainIntegration": "Domain Integration (CF-SSL):",
+        "mercadoPagoAccessToken": "PAYMENT METHOD (BR) Mercado Pago Access Token:",
+        "serverFantasyName": "Server Fantasy Name:",
+        "launcherImage": "Launcher Image:",
+        "favIcon": "Website FavIcon:",
+        "logoImage": "Website Logo Image:",
+        "backgroundImage": "Background Image:",
+        "footerText": "Footer Text For Copyright (closed source code):",
+        "discordUrl": "Discord URL:",
+        "facebookUrl": "Facebook URL:",
+        "youtubeUrl": "YouTube URL:",
+        "whatsappUrl": "Whats App URL:",
+        "update": "Update !",
+        "launchConfigs": "Pré Lanch Mode Configs:",
+        "homepageConfigs": "Home Page Welcome Configs:",
+        "customerConfigs": "Customer Configurations:",
+        "webSiteConfigs": "Website Configurations:",
+        "updateCustomerInfos": {
+          "success": "Success !",
+          "successText": "Updated Successfully.",
+          "error": "Error",
+          "errorText": "Something is not right: "
+        },
+        "GET_NOT_FOUND_TITLE" : {
+          "content" : "Error."
+        },
+        "GET_NOT_FOUND_MESSAGE" : {
+          "content" : "No settings found."
+        }
+      },
+      "AsideMenu": {
+        "content": "System",
+        "items": {
+          "overview": "Overview",
+          "news": "News",
+          "guildmarks": "Guildmarks",
+          "purchases": "Purchases",
+          "shop": "Shop Items",
+          "configurations": "Configurations",
+          "perspective": "Go to User Perspective"
+        }
+      },
+      "DynamicFormModal": {
+        "guildId" : "Guild Id",
+        "author" : "Author",
+        "image" : "Image",
+        "password" : "Password",
+        "data" : "Date",
+        "title" : "Title",
+        "description" : "Description",
+        "unformatedHtmlDescription" : "Html (ENABLED) Description",
+        "tipo" : "Type",
+        "id" :  "Id",
+        "mercadopagoPreferenceId" :  "Mercado Pago Preference Id",
+        "mercadopagoPreferenceCart" :  "Mercado Pago Preference Cart",
+        "webShopReferenceCart" :  "Web Shop Reference Cart",
+        "value" :  "Value",
+        "paid" : "Is Paid",
+        "importedByCustomer" : "Imported By Customer",
+        "statusDetail" : "Status Detail"
+      },
+      "GuildmarksManagementContent": {
+        "content": "Guildmarks",
+        "new": "New",
+        "actions": {
+          "content" : "Actions",
+          "items" : {
+            "change" : "change",
+            "delete" : "delete"
+          }
+        },
+        "columns": {
+          "Id" : "Id",
+          "Guild Id" : "Guild Id",
+          "Author" : "Author",
+          "Image" : "Image"
+        },
+        "changeRow": {
+          "success": "Success",
+          "successText": "successText",
+          "error": "error",
+          "errorText": "errorText"
+        },
+        "includeRow": {
+          "success": "Success",
+          "successText": "successText",
+          "error": "error",
+          "errorText": "errorText"
+        },
+        "deleteRow": {
+          "error" : "Error",
+          "confirm" : "You sure ?",
+          "confirmButtonText" : "Delete",
+          "cancelButtonText" : "Cancel"
+        },
+        "GET_NOT_FOUND_MESSAGE" : {
+          "content" : "No results "
+        },
+        "GET_NOT_FOUND_TITLE" : {
+          "content" : "Error"
+        }
+      },
+      "MenuNavbar": {
+        "login" : "Login"
+      },
+      "ModalLogin": {
+        "handleLogin" : {
+          "error" : "Error",
+          "errorText" : ""
+        },
+        "usernamePlaceHolder" : "username",
+        "passwordPlaceHolder" : "password",
+        "login" : "Login"
+      },
+      "NewsManagementContent": {
+        "content": "News",
+        "new": "New",
+        "actions": {
+          "content" : "Actions",
+          "items" : {
+            "change" : "change",
+            "delete" : "delete",
+            "preview" : "preview"
+          }
+        },
+        "columns": {
+          "Id" : "Id",
+          "Data" : "Date",
+          "Title" : "Title",
+          "Author" : "Author",
+          "Description" : "Description",
+          "Tipo" : "Type"
+        },
+        "changeRow": {
+          "success": "Success",
+          "successText": "successText",
+          "error": "error",
+          "errorText": "errorText"
+        },
+        "includeRow": {
+          "success": "Success",
+          "successText": "successText",
+          "error": "error",
+          "errorText": "errorText"
+        },
+        "deleteRow": {
+          "error" : "Error",
+          "confirm" : "You sure ?",
+          "confirmButtonText" : "Delete",
+          "cancelButtonText" : "Cancel"
+        }
+      },
+      "PurchasesManagementContent": {
+        "content": "Purchases",
+        "new": "New",
+        "actions": {
+          "content" : "Actions",
+          "items" : {
+              "change" : "change",
+              "delete" : "delete"
+          }
+        },
+        "columns": {
+          "id" : "Id",
+          "referenceinpaymentmethod" : "External Reference",
+          "dateinc" : "Date Inc",
+          "username" : "Username",
+          "value" : "Value",
+          "paid" : "Paid",
+          "importedbyservercustomer" : "Imported"
+        },
+        "changeRow": {
+          "success": "Success",
+          "successText": "successText",
+          "error": "error",
+          "errorText": "errorText"
+        },
+        "includeRow": {
+          "success": "Success",
+          "successText": "successText",
+          "error": "error",
+          "errorText": "errorText"
+        },
+        "deleteRow": {
+          "error" : "Error",
+          "confirm" : "You sure ?",
+          "confirmButtonText" : "Delete",
+          "cancelButtonText" : "Cancel"
+        }
+      },
+      "ShopManagementContent": {
+        "content": "Shop",
+        "new": "New",
+        "actions": {
+          "content" : "Actions",
+          "items" : {
+            "change" : "change",
+            "delete" : "delete"
+          }
+        },
+        "columns": {
+          "id" : "Id",
+          "image" : "Image",
+          "title" : "Title",
+          "description" : "Description",
+          "value" : "Value"
+        },
+        "changeRow": {
+          "success": "Success",
+          "successText": "successText",
+          "error": "error",
+          "errorText": "errorText"
+        },
+        "includeRow": {
+          "success": "Success",
+          "successText": "successText",
+          "error": "error",
+          "errorText": "errorText"
+        },
+        "deleteRow": {
+          "error" : "Error",
+          "confirm" : "You sure ?",
+          "confirmButtonText" : "Delete",
+          "cancelButtonText" : "Cancel"
+        }
+      }
+    },
+    "routes": {
+      "Home": {
+        "content": "Warning !",
+        "text": "This is a admin zone."
+      },
+      "Tabs": {
+        "AccountSettingsManagement": "",
+        "GuildmarksManagement": "",
+        "NewsManagement": "",
+        "Overview": {
+          "content": "Overview",
+          "text": "Welcome !"
+        },
+        "PurchasesHistoryManagement": "",
+        "ShopManagement": ""
+      }
+    }
+  }
+}

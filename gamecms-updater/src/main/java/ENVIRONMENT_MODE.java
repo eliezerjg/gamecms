@@ -1,0 +1,3 @@
+public enum ENVIRONMENT_MODE {
+    PRODUCTION, DEVELOPMENT
+}

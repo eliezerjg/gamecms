@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head><meta charset="latin1">
+    <title>Launcher</title>
+    <script type="text/javascript"></script>
+    <style>
+        body {
+            color: #fff;
+            font-family: arial, helvetica, sans-serif;
+            font-size: 12px;
+            background: #3291a8;
+            background-repeat: no-repeat;
+            width: 598px;
+            height: 369px;
+            margin: 0;
+            padding: 0;
+        }
+
+    </style>
+
+</head>
+<body scroll="no" >
+
+<img th:src="@{${image}}" style="width: 100%;height: 100%; z-index: 1; position: absolute; padding: 0; margin: 0;"/>
+
+<div style="position: absolute;margin-top: 80px; z-index: 99999;">
+
+
+
+    <div style="margin-left: 10px;margin-top: 69px; width: 500px;">
+
+
+
+        <table style="background-color: black; border: 1px solid white;">
+            <thead>
+            <tr>
+                <th style="border-bottom: 1px solid white;border-right: 1px solid white;">Data</th>
+                <th style="width: 150px; border-bottom: 1px solid white;">Noticia</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr th:each="noticia : ${noticias}">
+                <td th:text="${#dates.format(noticia.data, 'dd/MM/yyyy')}" style="border-bottom: 1px solid white;border-right: 1px solid white;"></td>
+                <td th:text="${noticia.title}" style="width: 150px; border-bottom: 1px solid white;"></td>
+            </tr>
+            </tbody>
+        </table>
+
+
+    </div>
+</div>
+
+</body>
+</html>
