@@ -8,7 +8,6 @@
 * Platform Frontend: React Cacheable Frontend
 * Integration Backend: Microservice
 * Updater: Desktop Application for updates (by comparing)
-* Plataform Landing Page: React static Frontend
 
 ## Technologies:
 * i18Next
