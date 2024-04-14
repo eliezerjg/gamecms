@@ -17,7 +17,3 @@
 * Webhooks Notifications with Discord
 * Intellij Java Swing
 
-## Actual Goals:
-* Implementing the first successful Customer
-* Starting the i18n implementation for expanding to all customers around the world
-* Present in 3 Countries (BR, USA and PHILIPHINES)
