@@ -16,20 +16,21 @@
 * Webhooks Notifications with Discord
 * Intellij Java Swing
 
-* ## How to Run FrontEnd:
-* ### Configure in folder middleware the Configurations.jsx
-* ### Run > npm install
-* ### Run > npm run dev
 
-* ## How to Run Backend:
-* ### Configure the MySQL Database
-* ### Configure the connection in properties
-* ### Run the project ( the ORM will create the DB, if not change the mode in properties to create )
+## How to Run FrontEnd:
+### Configure in folder middleware the Configurations.jsx
+### Run > npm install
+### Run > npm run dev
 
- ## How to Run the integration:
- ### Setup the services according to your game and simple Run > Java -jar <jarname>
+## How to Run Backend:
+### Configure the MySQL Database
+### Configure the connection in properties
+### Run the project ( the ORM will create the DB, if not change the mode in properties to create )
+
+## How to Run the integration:
+### Setup the services according to your game and simple Run > Java -jar <jarname>
 
 
- ## How to setup the updater:
- ### After the settings being applied configure gamecms.settings and gamecms.log in folder and the JDK, change the Launcher to call SLF.exe and redirect to your server ip
+## How to setup the updater:
+### After the settings being applied configure gamecms.settings and gamecms.log in folder and the JDK, change the Launcher to call SLF.exe and redirect to your server ip
 
