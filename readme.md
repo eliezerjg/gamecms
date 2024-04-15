@@ -1,5 +1,4 @@
 # MonoRepo - Turned to Open Source in (14/04/2024)
-<BR/><BR/>
 ## Game CMS - Content Management and E-commerce - Platform
 
 ## Architecture:
