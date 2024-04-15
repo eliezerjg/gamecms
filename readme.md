@@ -42,5 +42,5 @@ Some prints:
 <img src="https://i.postimg.cc/PdNn2HkV/website.jpg" width="720" height="240" />
 <img src="https://i.postimg.cc/RhfRy018/updater2.jpg" width="720" height="240" />
 <img src="https://i.postimg.cc/KZzVmDY9/website-2.jpg" width="720" height="240" />
-<img src="https://i.postimg.cc/KZzVmDY9/website-3.jpg" width="720" height="240" />
+<img src="https://i.postimg.cc/WNhfRGnM/website-3.jpg" width="720" height="240" />
 
