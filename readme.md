@@ -1,5 +1,5 @@
 # Are you looking for stable and secure version of it ? we have !
-<p> Do you want a Game CMS hosted version just click and install with support included and exclusive features? </p>
+<p> Do you want a Stable, Secure, Click and Deploy version of it ? WE HAVE ! </p>
 <p> Message me on WhatsApp and lets build your idea + (351) 926 525 637 or click <a href="https://wa.me/351926525637" target="_blank">here.</a></p> 
 <hr/>
 
