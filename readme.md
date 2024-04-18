@@ -1,10 +1,9 @@
+<p> Do you want a Game CMS hosted version just click and install with support included and exclusive features? </p>
+<p> Message me on WhatsApp and lets build your idea + (351) 926 525 637 </p> 
+<hr/>
+
 # MonoRepo - Turned to Open Source in (14/04/2024)
 ## Game CMS - Content Management and E-commerce - Platform
-
-## AD
-
-### Do you want a Game CMS hosted version just click and install with support included and exclusive features?
-##  Message me on WhatsApp and lets build your idea + (351) 926 525 637
 
 ## Architecture:
 
