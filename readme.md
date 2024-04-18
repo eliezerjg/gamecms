@@ -27,6 +27,11 @@
 ### Run > npm install
 ### Run > npm run dev
 
+## How to Deploy FrontEnd:
+### Run> npm run build
+### Copy /dist and deploy to a static web server like cPanel
+
+
 ## How to Run Backend:
 ### Configure the MySQL Database
 ### Configure the connection in properties
