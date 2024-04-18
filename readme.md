@@ -9,7 +9,7 @@
 ## Architecture:
 
 * Platform Backend: Monolith
-* Platform Frontend: React Cacheable Frontend
+* Platform Frontend: React Cacheable Frontend with Javascript
 * Integration Backend: Microservice
 * Updater: Desktop Application for updates (by comparing)
 
