@@ -9,7 +9,7 @@
 
 * Platform Backend: Monolith
 * Platform Frontend: React Cacheable Frontend with Javascript
-* Integration Backend: Microservice
+* Integration Backend Agent: Microservice
 * Updater: Desktop Application for updates (by comparing)
 
 ## Technologies:
