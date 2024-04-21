@@ -1,3 +1,7 @@
+## In First Place
+Coffee is good and i like it, if i helped you by some way:<br/><br/>
+<a href="https://buymeacoffee.com/eliezerjg" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /></a>
+
 # Do you want a Stable, Secure, Click and Deploy version of it ? WE HAVE !
 <p> Message me on WhatsApp and lets build your idea + (351) 926 525 637 or click <a href="https://wa.me/351926525637" target="_blank">here.</a></p> 
 <hr/>
